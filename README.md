@@ -1,1 +1,1 @@
-# COMP6245_Foundation_Machine_Learning_Experiment
+# COMP6245 Foundation Machine Learning Experiment
